@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AAAA\\KisLab4\\KisLab4\\KisLab4.csproj": {}
+    "D:\\ХНУРЕ5\\КИС\\labRepos\\KisLab4\\KisLab4\\KisLab4.csproj": {}
   },
   "projects": {
-    "D:\\AAAA\\KisLab4\\KisLab4\\KisLab4.csproj": {
+    "D:\\ХНУРЕ5\\КИС\\labRepos\\KisLab4\\KisLab4\\KisLab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AAAA\\KisLab4\\KisLab4\\KisLab4.csproj",
+        "projectUniqueName": "D:\\ХНУРЕ5\\КИС\\labRepos\\KisLab4\\KisLab4\\KisLab4.csproj",
         "projectName": "KisLab4",
-        "projectPath": "D:\\AAAA\\KisLab4\\KisLab4\\KisLab4.csproj",
+        "projectPath": "D:\\ХНУРЕ5\\КИС\\labRepos\\KisLab4\\KisLab4\\KisLab4.csproj",
         "packagesPath": "C:\\Users\\Sasha\\.nuget\\packages\\",
-        "outputPath": "D:\\AAAA\\KisLab4\\KisLab4\\obj\\",
+        "outputPath": "D:\\ХНУРЕ5\\КИС\\labRepos\\KisLab4\\KisLab4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,12 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Oracle.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[3.19.80, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

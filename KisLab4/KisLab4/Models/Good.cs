@@ -22,5 +22,9 @@ namespace KisLab4.Models
         public string Description { get; set; }
 
         public List<Sale> Sales { get; set; }
+
+        public DateTime ExpiredDate { get; set; }
+
+        public int Expired { get; set; }
     }
 }
